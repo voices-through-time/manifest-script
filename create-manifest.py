@@ -5,11 +5,11 @@ from PIL import Image
 # Only edit the things in the VARIABLES box - leave everything else UNLESS you want to run the resize method
 
 ##################### VARIABLES #############################
-path = './subcommins/A_FH_A_03_005_006/' # change this path to where the digitised documents are
+path = './records/A_FH_A_03_005_006/' # change this path to where the digitised documents are
 volume = "006" # the name of the volume 
 title = "A_FH_A_03_005_006" # the title of the records
 date_range = "June 1764-May 1767" # The date range for the records
-csv_path = "subcommins/subcoms_006.csv" # path for the manifest to end up
+csv_path = "records/subcoms_006.csv" # path for the manifest to end up
 ##################### VARIABLES END #############################
 
 
